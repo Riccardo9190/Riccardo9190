@@ -26,10 +26,5 @@ By now, looking for real web developer experiences, preferably those ones that h
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
  
 ## Contact
-<a href="https://wa.me/<5511987817314>" alt="WhatsApp" target="_blank">
-
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<5511987817314>"/>
-</a>
-
-![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.waliton2@gmail.com)
-
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+987817314&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+987817314&text=Hello!)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.waliton2@gmail.com)
