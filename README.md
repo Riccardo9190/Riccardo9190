@@ -2,7 +2,7 @@
  
 ## I'm Ricardo Waliton! 👋👋
  
-By now, looking for real web developer experiences, preferably those ones that help in myself improvement as hard skills (courses, books,  coding best practices, career plan, etc) as soft skills. 
+For now, looking for real web developer experiences, preferably those ones that help in myself improvement as hard skills (courses, books,  coding best practices, career plan, etc) as soft skills. 
  
  
 ## Skills
