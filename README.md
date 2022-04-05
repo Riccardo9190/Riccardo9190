@@ -1,5 +1,5 @@
 <h2>
-  <p align="center">Welcome!&nbsp;<img align="center" src="https://github.com/douglastofoli/douglastofoli/blob/main/pikachu.png" height="80px"/></p>
+  <p align="center">Welcome!&nbsp;<img align="center" src="https://github.com/Riccardo9190/Riccardo9190/blob/main/Db.png" height="200px"/></p>
 </h2>
 
 <h3 align="center">My name is Ricardo and I am a Web Developer <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> 
