@@ -57,7 +57,7 @@
 <i>My social networks:</i>
 <br>
 <br>
-<a href="www.linkedin.com/in/ricardo-waliton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"></a>
+<a href="https://www.linkedin.com/in/ricardo-waliton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"></a>
 <a href="https://github.com/Riccardo9190" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"></a>
 </div>
 
