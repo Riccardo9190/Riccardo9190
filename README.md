@@ -7,7 +7,7 @@
 
 <br>
 
-- 📚 Currently learning **Typescript**
+- 📚 Currently learning **PostgreSQL**
 
 - 🎯	Looking for real web development experiences!
 
